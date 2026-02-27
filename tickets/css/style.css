@@ -1,0 +1,21 @@
+table,
+td,
+tr,
+th {
+  border: 1px solid black;
+  padding: 1rem;
+  text-align: center;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+td {
+  background-color: lightgray;
+}
+
+.omzet {
+  background-color: gray;
+}

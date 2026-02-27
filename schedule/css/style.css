@@ -1,0 +1,33 @@
+table,
+tr,
+th {
+  border: 1px solid black;
+  padding: 0.5rem;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+th {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.webtechnologie {
+  background-color: red;
+  color: white;
+}
+
+.databases {
+  background-color: blue;
+  color: white;
+}
+
+.itessentials {
+  background-color: purple;
+  color: white;
+}
+
+.itorganisatie {
+  background-color: gray;
+}
